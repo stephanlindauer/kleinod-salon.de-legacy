@@ -23,6 +23,12 @@ html {
 .container div span {
 	font-family: monospace;
 }
+
+.container .ui {
+	font-family: monospace;
+	background-color: yellowgreen;
+	text-align: center;
+}
 .container img {
 	width: 100%;
 	height: auto;
